@@ -10,4 +10,4 @@ Results are published on following MQTT Topic :
 - base_topic/state : busy, done, error depending on last status. Actually, I didin't log error cause, but it's quite simple to add
 - base_topic/BatteryStatusRecords : a JSON object with all the data from the carwings API
 
-
+![Screenshot](screenshot.png)
